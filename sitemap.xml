@@ -3,31 +3,20 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
-    <loc>https://42.teesh.net/post/about/</loc>
-    <lastmod>2019-05-22T20:04:42+01:00</lastmod>
-  </url>
-  
-  <url>
     <loc>https://42.teesh.net/categories/</loc>
-    <lastmod>2019-05-22T20:04:42+01:00</lastmod>
+    <lastmod>2016-10-05T19:36:44+01:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
     <loc>https://42.teesh.net/post/</loc>
-    <lastmod>2019-05-22T20:04:42+01:00</lastmod>
+    <lastmod>2016-10-05T19:36:44+01:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
     <loc>https://42.teesh.net/</loc>
-    <lastmod>2019-05-22T20:04:42+01:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>https://42.teesh.net/categories/about/</loc>
-    <lastmod>2019-05-22T20:04:42+01:00</lastmod>
+    <lastmod>2016-10-05T19:36:44+01:00</lastmod>
     <priority>0</priority>
   </url>
   
@@ -50,6 +39,11 @@
   <url>
     <loc>https://42.teesh.net/post/2016-09-23-workstation/</loc>
     <lastmod>2016-09-23T19:36:44+01:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://42.teesh.net/post/about/</loc>
+    <lastmod>2016-09-01T20:04:42+01:00</lastmod>
   </url>
   
   <url>

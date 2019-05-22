@@ -45,7 +45,8 @@ if (!doNotTrack) {
     </button>
     <ul id="menu" class="hamburger-menu-overlay">
       <li><a href="https://42.teesh.net/" class="hamburger-menu-overlay-link">Home</a></li>
-      <li><a href="https://42.teesh.net/categories/about" class="hamburger-menu-overlay-link">About</a></li><li><a href="https://42.teesh.net/categories/posts" class="hamburger-menu-overlay-link">Posts</a></li>
+      <li><a href="https://42.teesh.net/post/about/" class="hamburger-menu-overlay-link">About</a></li>
+      <li><a href="https://42.teesh.net/categories/posts" class="hamburger-menu-overlay-link">Posts</a></li>
     </ul>
   </div>
 </nav>
@@ -83,6 +84,28 @@ if (!doNotTrack) {
 <a href="https://disqus.com" class="dsq-brlink">comments powered by <span class="logo-disqus">Disqus</span></a>
     </main>
     <nav class="end-nav side-padding">
+      
+      <a ontouchstart="cardPressed.call(this)" ontouchend="cardReleased.call(this)" ontouchmove="cardReleased.call(this)" 
+  href="https://42.teesh.net/post/about/" class="card blog-card" rel="bookmark" >
+    
+    <div class="card-img-container">
+      <p class="card-img-overlay">Next Article</p>
+      <picture>
+        
+        <source srcset="https://42.teesh.net/images/burningship.png">
+        <img src="https://42.teesh.net/images/burningship.png" class="card-img" alt="Burning Ship Fractal">
+      </picture>
+    </div>
+    
+  <article class="card-body">
+    <h2 class="card-title">About</h2>
+    <p class="card-text">Just Another hacker</p>
+    <div class="card-subtext muted-text">
+      <p>Posted <time datetime="2016-09-01 91:00">Sep 1, 2016</time></p>
+      <p></p>
+    </div>
+  </article>
+</a>
       
       <a ontouchstart="cardPressed.call(this)" ontouchend="cardReleased.call(this)" ontouchmove="cardReleased.call(this)" 
   href="https://42.teesh.net/" class="card home-card" style="background-image: url( https://42.teesh.net/images/burningship.png )" rel="bookmark" >

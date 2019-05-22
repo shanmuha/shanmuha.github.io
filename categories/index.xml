@@ -5,18 +5,11 @@
     <description>Recent content in Categories on What&#39;s the question?</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en</language>
-    <lastBuildDate>Wed, 22 May 2019 20:04:42 +0100</lastBuildDate>
+    <lastBuildDate>Wed, 05 Oct 2016 19:36:44 +0100</lastBuildDate>
     
         <atom:link href="https://42.teesh.net/categories/index.xml" rel="self" type="application/rss+xml" />
     
     <item>
-      <title>about</title>
-      <link>https://42.teesh.net/categories/about/</link>
-      <pubDate>Wed, 22 May 2019 20:04:42 +0100</pubDate>
-      
-      <guid>https://42.teesh.net/categories/about/</guid>
-      <description></description>
-    </item><item>
       <title>posts</title>
       <link>https://42.teesh.net/categories/posts/</link>
       <pubDate>Wed, 05 Oct 2016 19:36:44 +0100</pubDate>
