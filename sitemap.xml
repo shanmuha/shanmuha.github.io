@@ -1,0 +1,60 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+  xmlns:xhtml="http://www.w3.org/1999/xhtml">
+  
+  <url>
+    <loc>https://42.teesh.net/post/about/</loc>
+    <lastmod>2019-05-22T20:04:42+01:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://42.teesh.net/categories/</loc>
+    <lastmod>2019-05-22T20:04:42+01:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://42.teesh.net/post/</loc>
+    <lastmod>2019-05-22T20:04:42+01:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://42.teesh.net/</loc>
+    <lastmod>2019-05-22T20:04:42+01:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://42.teesh.net/categories/about/</loc>
+    <lastmod>2019-05-22T20:04:42+01:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://42.teesh.net/post/2016-10-05-pacman/</loc>
+    <lastmod>2016-10-05T19:36:44+01:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://42.teesh.net/categories/posts/</loc>
+    <lastmod>2016-10-05T19:36:44+01:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://42.teesh.net/post/2016-09-26-ubuntusystemd/</loc>
+    <lastmod>2016-09-26T19:36:44+01:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://42.teesh.net/post/2016-09-23-workstation/</loc>
+    <lastmod>2016-09-23T19:36:44+01:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://42.teesh.net/tags/</loc>
+    <priority>0</priority>
+  </url>
+  
+</urlset>

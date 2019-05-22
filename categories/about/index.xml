@@ -1,0 +1,14 @@
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>about - What&#39;s the question?</title>
+    <link>https://42.teesh.net/categories/about/</link>
+    <description>Recent content in about on What&#39;s the question?</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en</language>
+    <lastBuildDate>Wed, 22 May 2019 20:04:42 +0100</lastBuildDate>
+    
+        <atom:link href="https://42.teesh.net/categories/about/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+  </channel>
+</rss>

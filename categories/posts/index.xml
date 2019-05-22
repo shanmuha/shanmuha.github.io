@@ -1,0 +1,35 @@
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>posts - What&#39;s the question?</title>
+    <link>https://42.teesh.net/categories/posts/</link>
+    <description>Recent content in posts on What&#39;s the question?</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en</language>
+    <lastBuildDate>Wed, 05 Oct 2016 19:36:44 +0100</lastBuildDate>
+    
+        <atom:link href="https://42.teesh.net/categories/posts/index.xml" rel="self" type="application/rss+xml" />
+    
+    <item>
+      <title>keeping pacman mirrorlist sorted by speed</title>
+      <link>https://42.teesh.net/post/2016-10-05-pacman/</link>
+      <pubDate>Wed, 05 Oct 2016 19:36:44 +0100</pubDate>
+      
+      <guid>https://42.teesh.net/post/2016-10-05-pacman/</guid>
+      <description>Automatically keeping pacman mirrorlist sorted by speed after every update</description>
+    </item><item>
+      <title>ubuntu/systemd network does not start with OpenVPN on boot</title>
+      <link>https://42.teesh.net/post/2016-09-26-ubuntusystemd/</link>
+      <pubDate>Mon, 26 Sep 2016 19:36:44 +0100</pubDate>
+      
+      <guid>https://42.teesh.net/post/2016-09-26-ubuntusystemd/</guid>
+      <description>A nasty surprise in the latest openvpn@.service definitions on Ubuntu Xenial (16.04) - OpenVPN can start before networking and so dhcp will complain about an unknown interface tun0 and the whole network stack does not get started.</description>
+    </item><item>
+      <title>This is my workstation</title>
+      <link>https://42.teesh.net/post/2016-09-23-workstation/</link>
+      <pubDate>Fri, 23 Sep 2016 19:36:44 +0100</pubDate>
+      
+      <guid>https://42.teesh.net/post/2016-09-23-workstation/</guid>
+      <description>There are many like it, but this one is mine.</description>
+    </item>
+  </channel>
+</rss>
