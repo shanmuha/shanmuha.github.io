@@ -6,9 +6,46 @@
     <description>Recent content in Tags on 42</description>
     <generator>Hugo -- gohugo.io</generator>
     <copyright>© 2016 Copyright Shanmuhanathan Thiagaraja</copyright>
+    <lastBuildDate>Wed, 05 Oct 2016 19:36:44 +0100</lastBuildDate>
     
 	<atom:link href="https://42.teesh.net/tags/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>archlinux</title>
+      <link>https://42.teesh.net/tags/archlinux/</link>
+      <pubDate>Wed, 05 Oct 2016 19:36:44 +0100</pubDate>
+      
+      <guid>https://42.teesh.net/tags/archlinux/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>openvpn</title>
+      <link>https://42.teesh.net/tags/openvpn/</link>
+      <pubDate>Mon, 26 Sep 2016 19:36:44 +0100</pubDate>
+      
+      <guid>https://42.teesh.net/tags/openvpn/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>uubuntu</title>
+      <link>https://42.teesh.net/tags/uubuntu/</link>
+      <pubDate>Mon, 26 Sep 2016 19:36:44 +0100</pubDate>
+      
+      <guid>https://42.teesh.net/tags/uubuntu/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>workstation</title>
+      <link>https://42.teesh.net/tags/workstation/</link>
+      <pubDate>Fri, 23 Sep 2016 19:36:44 +0100</pubDate>
+      
+      <guid>https://42.teesh.net/tags/workstation/</guid>
+      <description></description>
+    </item>
     
   </channel>
 </rss>

@@ -21,6 +21,18 @@
   </url>
   
   <url>
+    <loc>https://42.teesh.net/tags/</loc>
+    <lastmod>2016-10-05T19:36:44+01:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://42.teesh.net/tags/archlinux/</loc>
+    <lastmod>2016-10-05T19:36:44+01:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
     <loc>https://42.teesh.net/post/2016-10-05-pacman/</loc>
     <lastmod>2016-10-05T19:36:44+01:00</lastmod>
   </url>
@@ -32,8 +44,20 @@
   </url>
   
   <url>
+    <loc>https://42.teesh.net/tags/openvpn/</loc>
+    <lastmod>2016-09-26T19:36:44+01:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
     <loc>https://42.teesh.net/post/2016-09-26-ubuntusystemd/</loc>
     <lastmod>2016-09-26T19:36:44+01:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://42.teesh.net/tags/uubuntu/</loc>
+    <lastmod>2016-09-26T19:36:44+01:00</lastmod>
+    <priority>0</priority>
   </url>
   
   <url>
@@ -42,12 +66,19 @@
   </url>
   
   <url>
+    <loc>https://42.teesh.net/tags/workstation/</loc>
+    <lastmod>2016-09-23T19:36:44+01:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
     <loc>https://42.teesh.net/post/about/</loc>
     <lastmod>2016-09-01T20:04:42+01:00</lastmod>
   </url>
   
   <url>
-    <loc>https://42.teesh.net/tags/</loc>
+    <loc>https://42.teesh.net/categories/about/</loc>
+    <lastmod>2016-09-01T20:04:42+01:00</lastmod>
     <priority>0</priority>
   </url>
   

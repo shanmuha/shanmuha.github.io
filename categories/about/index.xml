@@ -1,14 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>about - What&#39;s the question?</title>
+    <title>about on 42</title>
     <link>https://42.teesh.net/categories/about/</link>
-    <description>Recent content in about on What&#39;s the question?</description>
+    <description>Recent content in about on 42</description>
     <generator>Hugo -- gohugo.io</generator>
-    <language>en</language>
-    <lastBuildDate>Wed, 22 May 2019 20:04:42 +0100</lastBuildDate>
+    <copyright>© 2016 Copyright Shanmuhanathan Thiagaraja</copyright>
+    <lastBuildDate>Thu, 01 Sep 2016 20:04:42 +0100</lastBuildDate>
     
-        <atom:link href="https://42.teesh.net/categories/about/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="https://42.teesh.net/categories/about/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>About</title>
+      <link>https://42.teesh.net/post/about/</link>
+      <pubDate>Thu, 01 Sep 2016 20:04:42 +0100</pubDate>
+      
+      <guid>https://42.teesh.net/post/about/</guid>
+      <description>Just Another Hacker!</description>
+    </item>
     
   </channel>
 </rss>

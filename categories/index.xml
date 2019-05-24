@@ -20,5 +20,14 @@
       <description></description>
     </item>
     
+    <item>
+      <title>about</title>
+      <link>https://42.teesh.net/categories/about/</link>
+      <pubDate>Thu, 01 Sep 2016 20:04:42 +0100</pubDate>
+      
+      <guid>https://42.teesh.net/categories/about/</guid>
+      <description></description>
+    </item>
+    
   </channel>
 </rss>
