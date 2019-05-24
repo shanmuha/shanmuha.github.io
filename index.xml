@@ -1,13 +1,15 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>What&#39;s the question?</title>
+    <title>42</title>
     <link>https://42.teesh.net/</link>
-    <description>Recent content on What&#39;s the question?</description>
+    <description>Recent content on 42</description>
     <generator>Hugo -- gohugo.io</generator>
-    <language>en</language>
+    <copyright>© 2016 Copyright Shanmuhanathan Thiagaraja</copyright>
     <lastBuildDate>Wed, 05 Oct 2016 19:36:44 +0100</lastBuildDate>
     
-        <atom:link href="https://42.teesh.net/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="https://42.teesh.net/index.xml" rel="self" type="application/rss+xml" />
+    
     
     <item>
       <title>keeping pacman mirrorlist sorted by speed</title>
@@ -15,21 +17,40 @@
       <pubDate>Wed, 05 Oct 2016 19:36:44 +0100</pubDate>
       
       <guid>https://42.teesh.net/post/2016-10-05-pacman/</guid>
-      <description>Automatically keeping pacman mirrorlist sorted by speed after every update</description>
-    </item><item>
+      <description>I use reflector to keep my pacman mirrors ordered by speed from me. However, when the mirrorlist is updated by pacman -Syu, I had do a sequence of commands to reflectorise it.
+To automate it, add the following file: ./etc/pacman.d/hooks/mirrorupgrade.hook [Trigger] Operation =Upgrade Type =Package Target =pacman-mirrorlist [Action] Description =Updating pacman-mirrorlist with reflector and removing pacnew... When =PostTransaction Depends =reflector Exec =/usr/bin/bash -c &amp;#34;reflector --sort rate --save /etc/pacman.d/mirrorlist &amp;amp;&amp;amp; [[ -f /etc/pacman.</description>
+    </item>
+    
+    <item>
       <title>ubuntu/systemd network does not start with OpenVPN on boot</title>
       <link>https://42.teesh.net/post/2016-09-26-ubuntusystemd/</link>
       <pubDate>Mon, 26 Sep 2016 19:36:44 +0100</pubDate>
       
       <guid>https://42.teesh.net/post/2016-09-26-ubuntusystemd/</guid>
-      <description>A nasty surprise in the latest openvpn@.service definitions on Ubuntu Xenial (16.04) - OpenVPN can start before networking and so dhcp will complain about an unknown interface tun0 and the whole network stack does not get started.</description>
-    </item><item>
+      <description>A nasty surprise in the latest openvpn@.service definitions on Ubuntu Xenial (16.04) - OpenVPN can start before networking and so dhcp will complain about an unknown interface tun0 and the whole network stack does not get started.
+The solution is to add After=networking.service to the [Unit] section of the file /lib/systemd/system/openvpn@.service
+source: https://bugs.launchpad.net/ubuntu/+source/openvpn/+bug/1598522
+on google cloud, the only way to fix this problem (short of having proper serial port login access configured) is to delete instance/detach the disk, attach to another vm, fix this file and recreate instance using the same disk as described in this answer@ StackOverflow</description>
+    </item>
+    
+    <item>
       <title>This is my workstation</title>
       <link>https://42.teesh.net/post/2016-09-23-workstation/</link>
       <pubDate>Fri, 23 Sep 2016 19:36:44 +0100</pubDate>
       
       <guid>https://42.teesh.net/post/2016-09-23-workstation/</guid>
-      <description>There are many like it, but this one is mine.</description>
+      <description>There are many like it, but this one is mine.
+Archlinux with lxqt makes for a very productive and pleasent workstation. more details coming soon&amp;hellip;</description>
     </item>
+    
+    <item>
+      <title>About</title>
+      <link>https://42.teesh.net/post/about/</link>
+      <pubDate>Thu, 01 Sep 2016 20:04:42 +0100</pubDate>
+      
+      <guid>https://42.teesh.net/post/about/</guid>
+      <description>Just Another Hacker!</description>
+    </item>
+    
   </channel>
 </rss>

@@ -3,6 +3,12 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
+    <loc>https://42.teesh.net/</loc>
+    <lastmod>2016-10-05T19:36:44+01:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
     <loc>https://42.teesh.net/categories/</loc>
     <lastmod>2016-10-05T19:36:44+01:00</lastmod>
     <priority>0</priority>
@@ -10,12 +16,6 @@
   
   <url>
     <loc>https://42.teesh.net/post/</loc>
-    <lastmod>2016-10-05T19:36:44+01:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>https://42.teesh.net/</loc>
     <lastmod>2016-10-05T19:36:44+01:00</lastmod>
     <priority>0</priority>
   </url>

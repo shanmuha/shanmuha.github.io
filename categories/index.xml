@@ -1,13 +1,15 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Categories - What&#39;s the question?</title>
+    <title>Categories on 42</title>
     <link>https://42.teesh.net/categories/</link>
-    <description>Recent content in Categories on What&#39;s the question?</description>
+    <description>Recent content in Categories on 42</description>
     <generator>Hugo -- gohugo.io</generator>
-    <language>en</language>
+    <copyright>© 2016 Copyright Shanmuhanathan Thiagaraja</copyright>
     <lastBuildDate>Wed, 05 Oct 2016 19:36:44 +0100</lastBuildDate>
     
-        <atom:link href="https://42.teesh.net/categories/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="https://42.teesh.net/categories/index.xml" rel="self" type="application/rss+xml" />
+    
     
     <item>
       <title>posts</title>
@@ -17,5 +19,6 @@
       <guid>https://42.teesh.net/categories/posts/</guid>
       <description></description>
     </item>
+    
   </channel>
 </rss>
